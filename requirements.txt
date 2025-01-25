@@ -1,0 +1,11 @@
+playwright
+dynaconf
+httpx
+SQLAlchemy==2.0.36
+asyncclick
+aiosqlite
+tqdm
+alembic
+anyio
+python-dateutil
+m3u8
